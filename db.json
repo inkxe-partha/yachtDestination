@@ -1,0 +1,46 @@
+{
+  "destinationList":[
+  {
+    "id": 1,
+    "name": "MIAMI",
+    "type": "Destination",
+    "description": " is the capital of the Indian state of West Bengal. Located on the east bank of the Hooghly River",
+    "tagLine": "Miami Beach has an opportunity to realize the potential of one of its most valuable assets. Help us complete the project to provide thousands of jobs & millions in revenue for Miami.",
+    "subTitle": "The Bridge is one of the most recognised landmarks in Miami",
+    "position": 1,
+    "imagePath": "https://images3.alphacoders.com/675/thumb-1920-675156.jpg"
+    
+  },
+  {
+    "id": 4,
+    "name": "FORT LAUDERDALE",
+    "type": "Destination",
+    "description": " Explore past & present Fort Lauderdale from its birthplace along the New River. 3 Museums. Photo Spot. Docent Tours. Unique Gifts. Amenities: Museums, Tours, Riverwalk. ",
+    "tagLine": "Enjoy clean, safe, user-friendly Florida beaches. Hollywood, ",
+    "subTitle": "",
+    "position": 4,
+    "imagePath": "https://www.planetware.com/photos-large/USFL/florida-fort-lauderdale-where-to-stay-luxury-ocean-skyline.jpg"
+   
+  },
+  {
+    "id": 5,
+    "name": "NASSUA, THE BAHAMAS",
+    "type": "Destination",
+    "description": "Nassau and Paradise Island have no shortage of sand, although their beaches are not quite as impressive as the long, deserted stretches you find in the Bahamas' Out Island. ... Cabbage Beach on Paradise Island is one of the most beautiful soft, white sand beaches in the world.",
+    "tagLine": "Yoo Yoo....",
+    "subTitle": "Yoo Yoo....",
+    "position": 1,
+    "imagePath": "http://getwallpapers.com/wallpaper/full/c/4/2/162528.jpg"
+  },
+   {
+    "id": 5,
+    "name": "PALM BEACH",
+    "type": "Destination",
+    "description": "Palm Beach is a suburb in the northern beaches region of Sydney, in the state of New South Wales, Australia. Palm Beach is located 41 kilometres (25 mi) north of the Sydney central business district, in the local government area of Northern Beaches Council.",
+    "tagLine": "Yoo Yoo....",
+    "subTitle": "Yoo Yoo....",
+    "position": 1,
+    "imagePath": "http://healthspecialists.com/wp-content/uploads/2016/10/beautiful-beach-wallpapers-hd-1080p.jpg"
+  }
+]
+}
